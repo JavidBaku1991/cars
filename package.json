@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/javidbaku1991/cars.git",
+  "homepage": "https://javidbaku1991.github.io/cars/",
   "type": "module",
   "scripts": {
     "build": "tsc && vite build",
